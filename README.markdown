@@ -20,7 +20,7 @@
 
 ## ディレクトリの構成
 
-### CsAdventCalendarDec9Serialize
+### CsAdventCalendarDec9
 
 .NETのオブジェクトからYAMLへ変換するサンプル。
 
